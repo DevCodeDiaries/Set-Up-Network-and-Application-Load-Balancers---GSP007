@@ -20,9 +20,9 @@ Make sure to follow **Qwiklabs' Terms of Service** and **YouTube’s Community G
 ### 🚨 Copy and run the following commands in Cloud Shell:
 
 ```bash
-curl -LO raw.githubusercontent.com/DevCode/Google-Cloud-Skills-Boost/master/Set%200Up%20Network%200and%20Application%200Load%20Balancers/devcode007.sh
-sudo chmod +x devcode007.sh
-./devcode007.sh
+curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Set%20Up%20Network%20and%20Application%20Load%20Balancers/techcps007.sh
+sudo chmod +x techcps007.sh
+./techcps007.sh
 ```
 ## ✅ Congratulations! You’ve successfully completed the lab! 😄
 ## 📝 Credit
